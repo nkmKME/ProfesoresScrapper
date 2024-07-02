@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "profesoresscrapper",
+  "version": "1.0.0",
+  "description": "Web scrapper for FC UNAM &amp; MisProfesores.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.12.1"
+  }
+}
